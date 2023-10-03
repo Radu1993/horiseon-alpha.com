@@ -32,9 +32,9 @@ https://radu1993.github.io/horiseon-alpha.com/
  ![alt text](assets/images/social-media-marketing.jpg)
  '''
  ## Credits 
-  My tutor: Dan Mueller;
-  Help from : Kevin Stares-Darbon;
-  Help from : Alameen Ipaye;
+  My tutor: Dan Mueller; <br>
+  Help from : Kevin Stares-Darbon; <br>
+  Help from : Alameen Ipaye; <br>
   Third party : 
   https://www.w3schools.com/html/html5_semantic_elements.asp
 
