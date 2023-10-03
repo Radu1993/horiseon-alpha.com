@@ -1,5 +1,5 @@
 # horiseon-alpha.com
- 01-modules challenge
+01-modules challenge
 
 ## Description 
 01- Modules Challenge
