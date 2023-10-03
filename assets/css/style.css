@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.nav {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,6 +58,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* changed the class name from .hero to .nav; */
 
 .float-left {
     float: left;
@@ -69,13 +71,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* changed the class name from .content to .section */
+
+.aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -87,13 +91,14 @@ p {
 }
 
 
-.benefit-item {
+.aside-class-item {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*  does  1 class only instead of 3 classes
 and is not  repeated more  times;
+change the class name from .benefit(lead, brand, cost) to .aside-class-item;
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -111,13 +116,14 @@ and is not  repeated more  times;
  */
 
 
-.benefit-pack h3 {
+.aside-class h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*  does  1 class only instead of 3 classes
  and is not repeated more times;
+ changed the class name from .benefit to .aside-class h3;
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -135,7 +141,7 @@ and is not  repeated more  times;
 } */
 
 
-.benefit-item img {
+.aside-class-item img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -143,6 +149,7 @@ and is not  repeated more  times;
 
 /*  does 1 class only instead of 3 classes
  and is not repeated more times;
+changed the class name from .benefit to .aside-class-item img;
 
 .benefit-lead img {
     display: block;
@@ -174,6 +181,7 @@ and is not  repeated more  times;
 
 /*  does  1 class only instead of 3 classes
  and is not repeated more times;
+ changed the class name from .search  .online .social to .media-style;
 
  .search-engine-optimization {
     margin-bottom: 20px;
@@ -209,6 +217,7 @@ and is not  repeated more  times;
 
 /*  does  1 class only instead of 3 classes
  and is not repeated more times;
+ changed the class name from .search .online .social to .media-style img; 
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -230,6 +239,7 @@ and is not  repeated more  times;
 
 /*  does  1 class only instead of 3 classes
  and is not repeated more times;
+ changed the class name from .search .online .social to .media-style h2;
  
 .search-engine-optimization h2 {
     margin-bottom: 20px;
